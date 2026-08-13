@@ -8,4 +8,5 @@ I will try to keep a detailed chapter section in my private repository to help f
 ---
 
 $\color{pink}{\text{Current Available Files :D}}$ <br>
-WIP!
+[Jordan's git-help](git-help/)
+
