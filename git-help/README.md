@@ -21,7 +21,7 @@ commit message:
 ```bash
 git commit -m "commit message"
 ```
-- Additionally, you can follow git commit with an * to promt a sperate window to paste larger code blocks for git to self format
+- Additionally, you can follow git commit with an * to promt a separate window to paste larger code blocks for git to self format
 ## Step 4: Push Your Changes
 - Push your commits from your **local** repository to your repository on
 **GitHub**:
